@@ -10,7 +10,7 @@ const Experience = () => {
       responsibilities: [
         'Developed responsive web pages using HTML, CSS, and JavaScript',
         'Collaborated with design team to implement UI/UX improvements',
-        'Built interactive features with React.js for client projects',
+        'Built interactive features',
         
       ],
       color: 'blue'

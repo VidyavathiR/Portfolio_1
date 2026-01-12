@@ -51,11 +51,12 @@ const Hero = () => {
             {/* Resume Download */}
             <a
               href="/Vidyavathi_R_Junior_Web_Developer.pdf"
-              download
+              target="_blank" 
+              rel="noopener noreferrer"
               className="flex items-center gap-2 px-6 sm:px-8 py-3 sm:py-4 bg-white text-blue-600 border-2 border-blue-600 rounded-lg hover:bg-blue-50 transition-all duration-200 shadow-lg hover:shadow-xl font-medium text-base sm:text-lg"
             >
-              <Download size={20} />
-              Download Resume
+              
+              View Resume
             </a>
           </div>
 

@@ -67,7 +67,7 @@ const Footer = () => {
             <span>© {currentYear} Vidyavathi R. All rights reserved.</span>
             <span className="hidden sm:inline">|</span>
             <span className="flex items-center gap-1">
-              Built with <Heart size={16} className="text-red-500 fill-current" /> using React & Tailwind CSS
+              Built with <Heart size={16} className="text-red-500 fill-current" /> by Vidyavathi R
             </span>
           </p>
         </div>

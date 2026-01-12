@@ -5,22 +5,22 @@ const Contact = () => {
     {
       icon: <Mail size={24} />,
       label: 'Email',
-      value: 'vidyavathi.r@example.com',
-      link: 'mailto:vidyavathi.r@example.com',
+      
+      link: 'mailto:vidyavathi2812@gmail.com',
       color: 'from-red-500 to-orange-500'
     },
     {
       icon: <Github size={24} />,
       label: 'GitHub',
-      value: 'github.com/vidyavathi',
-      link: 'https://github.com/vidyavathi',
+    
+      link: 'https://github.com/VidyavathiR',
       color: 'from-gray-700 to-gray-900'
     },
     {
       icon: <Linkedin size={24} />,
       label: 'LinkedIn',
-      value: 'linkedin.com/in/vidyavathi-r',
-      link: 'https://linkedin.com/in/vidyavathi-r',
+      
+      link: 'https://linkedin.com/in/vidyavathir',
       color: 'from-blue-600 to-blue-700'
     }
   ];
@@ -73,7 +73,7 @@ const Contact = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="mailto:vidyavathi.r@example.com"
+                href="mailto:vidyavathi2812@gmail.com"
                 className="flex items-center justify-center gap-2 px-8 py-4 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-all duration-200 shadow-lg hover:shadow-xl font-medium text-lg"
               >
                 <Send size={20} />

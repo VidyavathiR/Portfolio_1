@@ -20,10 +20,10 @@ const Projects = () => {
       description: 'Responsive portfolio website developed for an architecture client.',
       techStack: ['Django', 'Bootstrap', 'HTML & CSS', 'JavaScript'],
       features: [
-        'Complete product catalog management',
-        'Shopping cart and checkout system',
-        'User authentication and order tracking'
-      ],
+        'Responsive and modern UI design',
+        'Project showcase with image galleries',
+        'Contact form for client inquiries'
+      ],      
       github: 'https://github.com/VidyavathiR/shilpakalamandir_website',
       demo: 'https://shilpakalamandir-website.onrender.com/',
       gradient: 'from-blue-500 to-cyan-500'
@@ -38,7 +38,7 @@ const Projects = () => {
         'Improved user experience with clean UI design '
       ],
       github: 'https://github.com/VidyavathiR/FoodApp-React',
-      demo: 'https://foodapp-demo.netlify.app',
+      demo: '',
       gradient: 'from-orange-500 to-red-500'
     },
     
@@ -52,7 +52,7 @@ const Projects = () => {
         'Application tracking system'
       ],
       github: 'https://github.com/VidyavathiR/CareerGlide',
-      demo: 'https://careerglide-demo.netlify.app',
+      demo: '',
       gradient: 'from-green-500 to-teal-500'
     },
 
